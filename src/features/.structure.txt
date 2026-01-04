@@ -1,0 +1,30 @@
+.
+├── auth
+│   ├── controller
+│   │   └── auth.controller.ts
+│   ├── middleware
+│   │   └── auth.middleware.ts
+│   ├── routes
+│   │   └── auth.routes.ts
+│   ├── schemas
+│   │   └── auth.schema.ts
+│   └── services
+│       └── auth.services.ts
+├── products
+│   ├── controller
+│   │   └── product.controller.ts
+│   ├── routes
+│   │   └── product.routes.ts
+│   ├── schemas
+│   │   └── product.schema.ts
+│   └── services
+│       └── product.services.ts
+└── users
+    ├── controllers
+    │   └── user.controllers.ts
+    ├── routes
+    │   └── user.routes.ts
+    └── services
+        └── user.services.ts
+
+16 directories, 12 files
